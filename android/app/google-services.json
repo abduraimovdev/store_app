@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "30043319023",
+    "project_id": "store-de62f",
+    "storage_bucket": "store-de62f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30043319023:android:ebca79f4158ce2cd03491a",
+        "android_client_info": {
+          "package_name": "uz.abduraimov.store_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS3uHsQci-9Dk93hqbZJ95yh3y5yC2UOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
